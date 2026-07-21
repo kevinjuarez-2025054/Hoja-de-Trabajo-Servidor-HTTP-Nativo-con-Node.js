@@ -1,0 +1,20 @@
+[
+  {
+    "id": 101,
+    "nombre": "Carlos Lopez",
+    "email": "carlos@gmail.com",
+    "activo": true
+  },
+  {
+    "id": 102,
+    "nombre": "Ana Gomez",
+    "email": "ana@hotmail.com",
+    "activo": true
+  },
+  {
+    "id": 1783518114767,
+    "nombre": "Domingo Chac",
+    "email": "domingo@gmail.com",
+    "activo": true
+  }
+]
